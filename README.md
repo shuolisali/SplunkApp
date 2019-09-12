@@ -1,7 +1,7 @@
 ## Contributors
+- Shuo Li (shuoli2@andrew.cmu.edu), owner of this github account
 - Haohan Zhang (haohanz@andrew.cmu.edu)
 - Yucheng Wang (yucheng4@andrew.cmu.edu)
-- Shuo Li (shuoli2@andrew.cmu.edu)
 - ChenLin Xu (cxu2@andrew.cmu.edu)
 
 ## Mentor
