@@ -1,3 +1,12 @@
+## Contributors
+- Haohan Zhang (haohanz@andrew.cmu.edu)
+- Yucheng Wang (yucheng4@andrew.cmu.edu)
+- Shuo Li (shuoli2@andrew.cmu.edu)
+- ChenLin Xu (cxu2@andrew.cmu.edu)
+
+## Mentor
+- Hasan Yasar (hyasar@andrew.cmu.edu)
+
 # SafeMed Splunk Application 
 [![Build Status](https://travis-ci.com/haohanz/SplunkApp.svg?branch=develop)](https://travis-ci.com/haohanz/SplunkApp) ![version](https://img.shields.io/badge/version-1.4.2-blue) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![codecov](https://codecov.io/gh/haohanz/SplunkApp/branch/codecov_test/graph/badge.svg)](https://codecov.io/gh/haohanz/SplunkApp)
 
@@ -133,13 +142,3 @@ $ sh ./build.sh
 ![Click on hospital data method1](https://github.com/haohanz/SafeMed/blob/master/artifact/images/v1.2_hospital_click2.png)
 - Show filtered correlated results (from two data sources) on the same page
 ![Correlated results with clicked value](https://github.com/haohanz/SafeMed/blob/master/artifact/images/v1.2_correlate.png)
-
-
-## Contributors
-- Haohan Zhang (haohanz@andrew.cmu.edu)
-- Yucheng Wang (yucheng4@andrew.cmu.edu)
-- Shuo Li (shuoli2@andrew.cmu.edu)
-- ChenLin Xu (cxu2@andrew.cmu.edu)
-
-## Mentor
-- Hasan Yasar (hyasar@andrew.cmu.edu)
